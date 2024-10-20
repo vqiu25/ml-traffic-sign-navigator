@@ -30,7 +30,7 @@ The dataset collected is around 8000 images, and can largely be represented by t
 
 ## Video
 
-https://github.com/user-attachments/assets/21e60e91-3487-4f27-9027-2d846cbd623c
+https://github.com/user-attachments/assets/0f413103-26b0-40d2-bb06-32ad281c02ed
 
 ## Team Members
 * Victor Qiu
