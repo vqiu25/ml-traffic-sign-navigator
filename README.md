@@ -28,6 +28,12 @@ The dataset collected is around 8000 images, and can largely be represented by t
 2. Resize images to 32x32
 3. Flatten the images to an 1D array
 
+## Repository
+* `trainModel.ipynb`: This is the training script with our parameters
+* `roadFollow.ipynb`: This is the script which enables the JetBot to maneuver a track, and respond accordingly
+* `model.joblib`: This is our model
+* `dataset`: This folder contains the dataset which our model was trained on 
+
 ## Video
 
 https://github.com/user-attachments/assets/0f413103-26b0-40d2-bb06-32ad281c02ed
